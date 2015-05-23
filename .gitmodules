@@ -1,0 +1,3 @@
+[submodule "src/github.com/jessevdk/go-flags"]
+	path = src/github.com/jessevdk/go-flags
+	url = git://github.com/jessevdk/go-flags.git
